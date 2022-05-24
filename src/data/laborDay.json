@@ -1,0 +1,23 @@
+{
+    "title": "40% off on labor day",
+    "products": [
+        {
+            "title": "red shirt",
+            "price": 100,
+            "product_url": "https://www.hobbylobby.com/Wearable-Art/Youth-Fashions/Youth-Blank-T-Shirts/Youth-T-Shirt/p/29082",
+            "image_url": "https://imgprd19.hobbylobby.com/5/ba/61/5ba610f22c7cd6efb4e6c69387d938451a6c40e6/700Wx700H-633719-0320.jpg"
+        },
+        {
+            "title": "blue shirt",
+            "price": 200,
+            "product_url": "https://www.hobbylobby.com/Wearable-Art/Youth-Fashions/Youth-Blank-T-Shirts/Youth-T-Shirt/p/152673",
+            "image_url": "https://imgprd19.hobbylobby.com/e/5e/cd/e5ecd22cfe6a229cc51d6b30ef381ad1c6c064b1/700Wx700H-633792-0320.jpg"
+        },
+        {
+            "title": "yellow shirt",
+            "price": 400,
+            "product_url": "https://www.hobbylobby.com/Wearable-Art/Infant-Toddler-Fashions/Infant-Toddler-Clothing/Toddler-T-Shirt/p/80823125",
+            "image_url": "https://imgprd19.hobbylobby.com/2/95/f5/295f5b799e49599ead8f79c4861a6c91380b3966/700Wx700H-1449735-111519.jpg"
+        }
+    ]
+}
